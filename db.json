@@ -91,87 +91,87 @@
   "laptopsDetail" : [
     {
       "id": 1,
-      "RAM" : "4G",
-      "intStorage" : "1TB",
-      "screenSize" : "15in"
+      "RAM" : "4",
+      "intStorage" : "1",
+      "screenSize" : "15"
     },
     {
       "id": 2,
-      "RAM" : "4G",
-      "intStorage" : "1TB",
-      "screenSize" : "15.6in"
+      "RAM" : "4",
+      "intStorage" : "1",
+      "screenSize" : "15.6"
     },
     {
       "id": 3,
-      "RAM" : "4G",
-      "intStorage" : "1TB",
-      "screenSize" : "15in"
+      "RAM" : "4",
+      "intStorage" : "1",
+      "screenSize" : "15"
     },
     {
       "id": 4,
-      "RAM" : "4G",
-      "intStorage" : "1TB",
-      "screenSize" : "11in"
+      "RAM" : "4",
+      "intStorage" : "1",
+      "screenSize" : "11"
     },
     {
       "id": 5,
-      "RAM" : "4G",
-      "intStorage" : "1TB",
-      "screenSize" : "15.6in"
+      "RAM" : "4",
+      "intStorage" : "1",
+      "screenSize" : "15.6"
     },
     {
       "id": 6,
-      "RAM" : "4G",
-      "intStorage" : "1TB",
-      "screenSize" : "15.6in"
+      "RAM" : "4",
+      "intStorage" : "1",
+      "screenSize" : "15.6"
     },
     {
       "id": 7,
-      "RAM" : "4G",
-      "intStorage" : "1TB",
-      "screenSize" : "17.3in"
+      "RAM" : "4",
+      "intStorage" : "1",
+      "screenSize" : "17.3"
     },
     {
       "id": 8,
-      "RAM" : "4G",
-      "intStorage" : "1TB",
-      "screenSize" : "11.6in"
+      "RAM" : "4",
+      "intStorage" : "1",
+      "screenSize" : "11.6"
     },
     {
       "id": 9,
-      "RAM" : "4G",
-      "intStorage" : "1TB",
-      "screenSize" : "15.6in"
+      "RAM" : "4",
+      "intStorage" : "1",
+      "screenSize" : "15.6"
     },
     {
       "id": 10,
-      "RAM" : "4G",
-      "intStorage" : "1TB",
-      "screenSize" : "15.6in"
+      "RAM" : "4",
+      "intStorage" : "1",
+      "screenSize" : "15.6"
     },
     {
       "id": 11,
-      "RAM" : "4G",
-      "intStorage" : "1TB",
-      "screenSize" : "13in"
+      "RAM" : "4",
+      "intStorage" : "1",
+      "screenSize" : "13"
     },
     {
       "id": 12,
-      "RAM" : "4G",
-      "intStorage" : "1TB",
-      "screenSize" : "15in"
+      "RAM" : "4",
+      "intStorage" : "1",
+      "screenSize" : "15"
     },
     {
       "id": 13,
-      "RAM" : "4G",
-      "intStorage" : "1TB",
-      "screenSize" : "15.6in"
+      "RAM" : "4",
+      "intStorage" : "1",
+      "screenSize" : "15.6"
     },
     {
       "id": 14,
-      "RAM" : "4G",
-      "intStorage" : "1TB",
-      "screenSize" : "15.6in"
+      "RAM" : "4",
+      "intStorage" : "1",
+      "screenSize" : "15.6"
     }
 
   ]
