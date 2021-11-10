@@ -91,35 +91,88 @@
   "laptopsDetail" : [
     {
       "id": 1,
-      "moreImages" : [],
-      "colors" : ["مشکی","نقره ای"],
       "RAM" : "4G",
       "intStorage" : "1TB",
-      "GPUManufacturer" : "Intel",
-      "screenSize" : "15.6in",
-      "processorSeries" : "Celeron",
-      "RAMType" : "DDR4",
-      "screenAccuracy" : "HD|1366x768",
-      "matteScreen" : "yes",
-      "touchScreen" : "no",
-      "operatingSystem" : "not",
-      "HDMIPort" : "has"
+      "screenSize" : "15in"
     },
     {
       "id": 2,
-      "moreImages" : [],
-      "colors" : ["مشکی","نقره ای"],
       "RAM" : "4G",
       "intStorage" : "1TB",
-      "GPUManufacturer" : "Intel",
-      "screenSize" : "15.6in",
-      "processorSeries" : "Celeron",
-      "RAMType" : "DDR4",
-      "screenAccuracy" : "HD|1366x768",
-      "matteScreen" : "yes",
-      "touchScreen" : "no",
-      "operatingSystem" : "not",
-      "HDMIPort" : "has"
+      "screenSize" : "15.6in"
+    },
+    {
+      "id": 3,
+      "RAM" : "4G",
+      "intStorage" : "1TB",
+      "screenSize" : "15in"
+    },
+    {
+      "id": 4,
+      "RAM" : "4G",
+      "intStorage" : "1TB",
+      "screenSize" : "11in"
+    },
+    {
+      "id": 5,
+      "RAM" : "4G",
+      "intStorage" : "1TB",
+      "screenSize" : "15.6in"
+    },
+    {
+      "id": 6,
+      "RAM" : "4G",
+      "intStorage" : "1TB",
+      "screenSize" : "15.6in"
+    },
+    {
+      "id": 7,
+      "RAM" : "4G",
+      "intStorage" : "1TB",
+      "screenSize" : "17.3in"
+    },
+    {
+      "id": 8,
+      "RAM" : "4G",
+      "intStorage" : "1TB",
+      "screenSize" : "11.6in"
+    },
+    {
+      "id": 9,
+      "RAM" : "4G",
+      "intStorage" : "1TB",
+      "screenSize" : "15.6in"
+    },
+    {
+      "id": 10,
+      "RAM" : "4G",
+      "intStorage" : "1TB",
+      "screenSize" : "15.6in"
+    },
+    {
+      "id": 11,
+      "RAM" : "4G",
+      "intStorage" : "1TB",
+      "screenSize" : "13in"
+    },
+    {
+      "id": 12,
+      "RAM" : "4G",
+      "intStorage" : "1TB",
+      "screenSize" : "15in"
+    },
+    {
+      "id": 13,
+      "RAM" : "4G",
+      "intStorage" : "1TB",
+      "screenSize" : "15.6in"
+    },
+    {
+      "id": 14,
+      "RAM" : "4G",
+      "intStorage" : "1TB",
+      "screenSize" : "15.6in"
     }
+
   ]
 }
